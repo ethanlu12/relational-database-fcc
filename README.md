@@ -1,1 +1,1 @@
-# celestial-bodies-database-fcc
+# Relational Database Projects for FCC
